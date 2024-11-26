@@ -1,16 +1,15 @@
-import React from 'react'
-import ShoppingList from '../ShoppingList'
-//import ShoppingListItem from '../ShoppingListItem'
+import React from 'react';
+//import ShoppingList from '../ShoppingList';
 
 const Shopping = () => {
+  console.log("Shopping page is rendering!");
+
   return (
     <div>
       <h1>shopping</h1>
       
-      
-      <ShoppingList/>
     </div>
-  )
+  );
 }
 
-export default Shopping
+export default Shopping;

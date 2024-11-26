@@ -6,6 +6,7 @@ import Register from './components/pages/Register';
 import Home from './components/pages/Home';
 import Profile from './components/pages/Profile';
 import Shopping from './components/pages/Shopping';
+import Shopp from './components/pages/Shopp';
 import store from './store';
 import { Provider } from 'react-redux';
 
@@ -37,6 +38,7 @@ const App = () => {
             <Route path="/register" element={user ? <Navigate to="/" /> : <Register />} />
             <Route path="/profile" element={<PrivateRoute element={<Profile />} />} />
             <Route path="/shopping_list" element={<PrivateRoute element={<Shopping />} />} />
+            <Route path="/shopp" element={<PrivateRoute element={<Shopp />} />} />
           </Routes>
         </div>
       </Router>
