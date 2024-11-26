@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1727868700059",
+      "email": "tshidaisa@gmail.com",
+      "password": "$2a$10$Vj.uwyTOQ0pSexx1EHSVCujM7t3Bb2Ooi4NvIS2J73xh8vwSfcIny",
+      "name": "rango",
+      "surname": "Tshidaisa",
+      "cell": "56754754"
+    },
+    {
+      "id": "1727868758633",
+      "email": "tshidaisa@gmail.com",
+      "password": "$2a$10$5clzIlCUYMHWOx/fgebxSOuTGftCSHdU.aJV5co830ehuF6Je/d2O",
+      "name": "muthu",
+      "surname": "gffdh",
+      "cell": "00998777"
+    },
+    {
+      "id": "1727869818404",
+      "email": "tshidaisa@outlook.com",
+      "password": "$2a$10$Loxo7nDPx7aEo165.pLPh.RNMKcnLLPGTN/e/E5.mwGdrdN7rSduW",
+      "name": "jabulani",
+      "surname": "murango",
+      "cell": "675475409"
+    },
+    {
+      "id": 1732605442100,
+      "email": "good@gmail.com",
+      "password": "$2a$10$IwWo688j.XTgcFwHk64TxeRdwl3G4agcxJ2z1KANI4ddyG0w.f5re",
+      "name": "good",
+      "surname": "magood",
+      "cell": "5875478457"
+    }
+  ],
+  "shoppingLists": [
+    {
+      "id": "1",
+      "name": "Groceries",
+      "quantity": 5,
+      "category": "Food",
+      "notes": "Buy fruits and vegetables",
+      "image": "grocery.png"
+    }
+  ]
+}
