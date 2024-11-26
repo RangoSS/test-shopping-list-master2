@@ -51,102 +51,12 @@
       "image": "bakery.png"
     },
     {
-      "0": {
-        "id": "5001",
-        "name": "Bakery Items",
-        "quantity": 10,
-        "category": "Food",
-        "notes": "Buy bread, cakes, and pastries",
-        "image": "bakery.png"
-      },
-      "1": {
-        "id": "5002",
-        "name": "Fruits",
-        "quantity": 5,
-        "category": "Food",
-        "notes": "Apples, bananas, and oranges",
-        "image": "fruits.png"
-      },
-      "2": {
-        "id": "5003",
-        "name": "Vegetables",
-        "quantity": 7,
-        "category": "Food",
-        "notes": "Tomatoes, carrots, and lettuce",
-        "image": "vegetables.png"
-      },
-      "3": {
-        "id": "5004",
-        "name": "Toiletries",
-        "quantity": 3,
-        "category": "Home",
-        "notes": "Shampoo, soap, toothpaste",
-        "image": "toiletries.png"
-      },
-      "4": {
-        "id": "5005",
-        "name": "Cleaning Supplies",
-        "quantity": 6,
-        "category": "Home",
-        "notes": "Detergent, sponges, and cleaner",
-        "image": "cleaning.png"
-      },
-      "5": {
-        "id": "5006",
-        "name": "Electronics",
-        "quantity": 2,
-        "category": "Electronics",
-        "notes": "Phone charger, headphones",
-        "image": "electronics.png"
-      },
-      "6": {
-        "id": "5007",
-        "name": "Stationery",
-        "quantity": 8,
-        "category": "Office",
-        "notes": "Pens, paper, and notepads",
-        "image": "stationery.png"
-      },
-      "7": {
-        "id": "5008",
-        "name": "Snacks",
-        "quantity": 12,
-        "category": "Food",
-        "notes": "Chips, chocolate, and cookies",
-        "image": "snacks.png"
-      },
-      "8": {
-        "id": "5009",
-        "name": "Books",
-        "quantity": 4,
-        "category": "Entertainment",
-        "notes": "Buy novels and textbooks",
-        "image": "books.png"
-      },
-      "9": {
-        "id": "5010",
-        "name": "Sports Equipment",
-        "quantity": 5,
-        "category": "Sports",
-        "notes": "Football, tennis rackets, and balls",
-        "image": "sports.png"
-      },
-      "id": "6470"
-    },
-    {
-      "id": "b776",
-      "userId": 1732605442100,
       "name": "fish",
-      "items": [
-        {
-          "name": "fish",
-          "quantity": "50",
-          "notes": "fish wranlers",
-          "category": "see food",
-          "dateAdded": "2024-11-26T09:54:11.783Z"
-        }
-      ],
-      "dateAdded": "2024-11-26T09:54:11.783Z"
+      "quantity": "4",
+      "category": "see food",
+      "notes": "fish wranlers",
+      "dateAdded": "2024-11-26T13:31:01.773Z",
+      "id": "b776"
     },
     {
       "id": "73d9",
@@ -171,6 +81,15 @@
       "notes": "ffgghhggf",
       "category": "dfffgfggf",
       "dateAdded": "2024-11-26T13:25:02.302Z"
+    },
+    {
+      "id": "10da",
+      "userId": "1732605442100",
+      "name": "makaroni",
+      "quantity": "23",
+      "notes": "gffgghgh",
+      "category": "veges",
+      "dateAdded": "2024-11-26T13:31:43.542Z"
     }
   ]
 }
