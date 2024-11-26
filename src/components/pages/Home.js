@@ -2,6 +2,7 @@ import React from 'react'
 //import Navbar from '../Navbar'
 import Register from './Register'
 import ShoppingList from '../ShoppingList'
+import AddShoppingList from '../AddShoppingList'
 //import ShoppingList from '../ShoppingList'
 
 const Home = () => {
@@ -9,7 +10,7 @@ const Home = () => {
     <div>
       <h1>hallow</h1>
       
-      <Register/>
+      <AddShoppingList/>
     <ShoppingList/>
     </div>
   )
