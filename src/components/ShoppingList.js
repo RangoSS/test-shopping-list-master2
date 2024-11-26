@@ -40,6 +40,8 @@ const ShoppingList = () => {
                   <p><strong>Category:</strong> {list.category}</p>
                   <p><strong>Quantity:</strong> {list.quantity}</p>
                   <p><strong>Notes:</strong> {list.notes}</p>
+                  <p><strong>Date:</strong> {list.dateAdded}</p>
+                  
                 </div>
               </div>
             </div>

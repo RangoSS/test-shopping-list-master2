@@ -25,7 +25,7 @@
       "cell": "675475409"
     },
     {
-      "id": 1732605442100,
+      "id": "1732605442100",
       "email": "good@gmail.com",
       "password": "$2a$10$IwWo688j.XTgcFwHk64TxeRdwl3G4agcxJ2z1KANI4ddyG0w.f5re",
       "name": "good",
@@ -147,6 +147,30 @@
         }
       ],
       "dateAdded": "2024-11-26T09:54:11.783Z"
+    },
+    {
+      "id": "73d9",
+      "userId": "1732605442100",
+      "name": "mahh",
+      "items": [
+        {
+          "name": "mahh",
+          "quantity": "1000",
+          "notes": "gfhfjhf",
+          "category": "gfjhdfhjdfhj",
+          "dateAdded": "2024-11-26T12:14:46.102Z"
+        }
+      ],
+      "dateAdded": "2024-11-26T12:14:46.102Z"
+    },
+    {
+      "id": "8b27",
+      "userId": "1732605442100",
+      "name": "mazambane",
+      "quantity": "46",
+      "notes": "ffgghhggf",
+      "category": "dfffgfggf",
+      "dateAdded": "2024-11-26T13:25:02.302Z"
     }
   ]
 }

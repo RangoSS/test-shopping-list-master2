@@ -23,10 +23,12 @@ const AddShoppingList = () => {
     }
 
     const newShoppingList = {
-      userId,
-      name,
-      items: [{ name, quantity, notes, category, dateAdded: new Date() }],
-      dateAdded: new Date(),
+      userId,        // ID of the logged-in user
+      name,          // Name of the shopping list
+      quantity,      // Quantity of items
+      notes,         // Optional notes for the list
+      category,      // Category of the shopping list
+      dateAdded: new Date(), // Current date as the creation date
     };
 
     // Dispatch action to add shopping list
